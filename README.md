@@ -34,5 +34,5 @@ Sou um profissional de Tecnologia da Informação e Web Designer em constante ev
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/pedro-victor-castanheiro-souza)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/pedro-victor-castanheiro-souza-6b0b03200/)
 [![GitHub](https://shields.io)](https://github.com)
